@@ -1,0 +1,11 @@
+target/
+*.class
+.env
+.env.*
+!.env.example
+application-local.properties
+firebase-service-account.json
+*service-account*.json
+.DS_Store
+.vscode/
+.idea/
